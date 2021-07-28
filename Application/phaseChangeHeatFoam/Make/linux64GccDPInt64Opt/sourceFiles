@@ -4,4 +4,5 @@ phaseChangeTwoPhaseMixtures/phaseChangeTwoPhaseMixture/phaseChangeTwoPhaseMixtur
 phaseChangeTwoPhaseMixtures/phaseChangeTwoPhaseMixture/newPhaseChangeTwoPhaseMixture.C \
 phaseChangeTwoPhaseMixtures/Lee/Lee.C \
 phaseChangeTwoPhaseMixtures/Hardt/Hardt.C \
+phaseChangeTwoPhaseMixtures/Constant/Constant.C \
 phaseChangeHeatFoam.C 
